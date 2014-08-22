@@ -1,4 +1,4 @@
 cross-effective
 ===============
 
-Control Traffic
+Control traffic given knowledge on the roads.
